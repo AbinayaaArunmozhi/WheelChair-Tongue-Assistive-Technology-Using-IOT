@@ -19,7 +19,7 @@ This project provides mobility assistance for people with severe physical disabi
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/Tongue-Drive-Wheelchair.git
+    https://github.com/AbinayaaArunmozhi/WheelChair-Tongue-Assistive-Technology-Using-IOT.git
     ```
 2. Open the code in Keil µVision.
 3. Flash the code using Flash Magic.
